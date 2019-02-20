@@ -1,7 +1,7 @@
-###由于项目下一个版本添加了商品选择需求，需要添加一组单选标签流，考虑标签选项不是很多，最好选择用自定义RadioGroup实现。
+﻿###由于项目下一个版本添加了商品选择需求，需要添加一组单选标签流，考虑标签选项不是很多，最好选择用自定义RadioGroup实现。
 ###重点在于onMeasure方法中计算每一行的宽带进行分行，onLayout方法中设置每个RadioButton的位置。
 
-###先看效果图
+###先看效果图aaa
 
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3523210-8c212919ed31ef2f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
